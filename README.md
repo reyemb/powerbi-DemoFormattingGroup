@@ -22,7 +22,7 @@ npm install powerbi-visuals-utils-formattingmodel-community
 
 ### Settings.ts
 
-Refer to the "settings.ts" file for how to properly configure "formattinggroups". 
+Refer to the "src/settings.ts" file for how to properly configure "formattinggroups". 
 
 ### Sample Image
 
