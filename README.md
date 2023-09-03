@@ -14,9 +14,9 @@ This repository demonstrates how to use the "powerbi-visuals-utils-formattingmod
 
 Run the following command to install the required packages.
 
-´´´
+```
 npm install powerbi-visuals-utils-formattingmodel-community
-´´´
+```
 
 ## Usage
 
@@ -28,10 +28,11 @@ Refer to the "settings.ts" file for how to properly configure "formattinggroups"
 
 Check out the included image that shows the expected output with proper settings.
 
+![grouping_settings](https://github.com/reyemb/powerbi-DemoFormattingGroup/assets/60140509/e5b9d327-0fd2-4ea0-a2ee-75d5af1f29af)
 
 ## Why Use The Community Version?
 
-Microsoft's official "powerbi-visuals-utils-formattingmodel" does not support "formattinggroups". This community version fills that gap and ensures your visuals are rendered as expected.
+Microsoft's official "powerbi-visuals-utils-formattingmodel" does not support "formattinggroups". This community version addresses this limitation by enabling semantically logical grouping of your settings.
 
 ## Contributing
 
