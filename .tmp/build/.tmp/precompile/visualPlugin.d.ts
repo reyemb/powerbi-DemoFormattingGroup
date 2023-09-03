@@ -1,0 +1,4 @@
+import powerbiVisualsApi from "powerbi-visuals-api";
+import IVisualPlugin = powerbiVisualsApi.visuals.plugins.IVisualPlugin;
+declare var demoFormattingGroup980F6DD3894342259FE51F65447E9322_DEBUG: IVisualPlugin;
+export default demoFormattingGroup980F6DD3894342259FE51F65447E9322_DEBUG;
